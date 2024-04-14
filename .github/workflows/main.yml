@@ -3,7 +3,7 @@ name: Publicar pagina a Surge.sh
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
